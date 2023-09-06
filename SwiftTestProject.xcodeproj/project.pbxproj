@@ -16,6 +16,7 @@
 		E95F45FC2AA931BE00B411FE /* SwiftTestProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E95F45FB2AA931BE00B411FE /* SwiftTestProjectTests.swift */; };
 		E95F46062AA931BE00B411FE /* SwiftTestProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E95F46052AA931BE00B411FE /* SwiftTestProjectUITests.swift */; };
 		E95F46082AA931BE00B411FE /* SwiftTestProjectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E95F46072AA931BE00B411FE /* SwiftTestProjectUITestsLaunchTests.swift */; };
+		E95F46152AA9337B00B411FE /* mathsTryTestClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = E95F46142AA9337B00B411FE /* mathsTryTestClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E95F46012AA931BE00B411FE /* SwiftTestProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftTestProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E95F46052AA931BE00B411FE /* SwiftTestProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftTestProjectUITests.swift; sourceTree = "<group>"; };
 		E95F46072AA931BE00B411FE /* SwiftTestProjectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftTestProjectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E95F46142AA9337B00B411FE /* mathsTryTestClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mathsTryTestClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				E95F45ED2AA931BE00B411FE /* Assets.xcassets */,
 				E95F45EF2AA931BE00B411FE /* LaunchScreen.storyboard */,
 				E95F45F22AA931BE00B411FE /* Info.plist */,
+				E95F46142AA9337B00B411FE /* mathsTryTestClass.swift */,
 			);
 			path = SwiftTestProject;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E95F46152AA9337B00B411FE /* mathsTryTestClass.swift in Sources */,
 				E95F45E92AA931BD00B411FE /* ViewController.swift in Sources */,
 				E95F45E52AA931BD00B411FE /* AppDelegate.swift in Sources */,
 				E95F45E72AA931BD00B411FE /* SceneDelegate.swift in Sources */,
